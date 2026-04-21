@@ -1,7 +1,7 @@
 # Custom-Image-Classifier
 https://drive.google.com/drive/folders/19u3NhrxKh345FJ0kFQbw44qKxnEXNnLj?usp=drive_link
 
-https://colab.research.google.com/drive/12aTar5LxH1coSIaLB-5bB36uYtUIOniT?usp=sharing
+https://colab.research.google.com/drive/1R1Gsh9uY9v4xbOMX73Sh7yftWZBMxmiK?usp=sharing
 
 
 Guide Questions
